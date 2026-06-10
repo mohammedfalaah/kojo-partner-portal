@@ -1,9 +1,8 @@
 # KOJO Partner Portal
 
-React.js technical test implementation for Kaizen Payments.
 
 ## Overview
-Built the UI screens based on the provided mockups:
+Built the UI screens based on the mockups:
 - Account creation form with validation
 - Partner portal dashboard with sidebar nav
 - Business loan leads management interface  
