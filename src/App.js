@@ -4,7 +4,6 @@ import CreateAccount from './components/CreateAccount';
 import PartnerPortal from './components/PartnerPortal';
 import './App.css';
 
-// Main App component - handles routing between signup and portal
 function App() {
   return (
     <Router>
